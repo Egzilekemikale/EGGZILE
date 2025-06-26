@@ -1,0 +1,23 @@
+{
+  "name": "eggzilebot",
+  "version": "2.0.0",
+  "description": "Professional WhatsApp AI bot with media tools, games, anti-link, watermark, and group management.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "EgzileKemikale",
+  "license": "MIT",
+  "dependencies": {
+    "baileys": "^6.7.0",
+    "axios": "^1.6.8",
+    "chalk": "^5.3.0",
+    "figlet": "^1.5.2",
+    "form-data": "^4.0.0",
+    "mime-types": "^2.1.35",
+    "moment": "^2.29.4",
+    "node-fetch": "^2.6.9",
+    "qrcode-terminal": "^0.12.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
